@@ -28,7 +28,7 @@ config :logger, backends: [Envio.Log.Backend], level: :debug
 config :envio, :backends, %{
   Envio.Slack => %{
     {Envio.Log.Publisher, :info} => [
-      hook_url: {:system, "YOUR_SLACK_CHANNEL_API_ENDPOINT}
+      hook_url: {:system, "YOUR_SLACK_CHANNEL_API_ENDPOINT"}
     ]
   }
 }
