@@ -1,4 +1,4 @@
-# ![Envio.Log](/stuff/logo-48x48.png?raw=true) `Envio.Log`
+# ![Envio.Log](https://raw.githubusercontent.com/kantox/envio_log/master/stuff/logo-48x48.png)    `Envio.Log`
 
 **[Logger backend](https://hexdocs.pm/logger/Logger.html#module-backends) for [`Envío`](http://hexdocs.pm/envio) with _Slack_ logging out of the box**
 
