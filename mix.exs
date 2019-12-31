@@ -2,7 +2,7 @@ defmodule EnvioLog.MixProject do
   use Mix.Project
 
   @app :envio_log
-  @version "0.1.0"
+  @version "0.1.1"
   @owner "kantox"
 
   def project do
